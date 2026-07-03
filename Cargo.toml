@@ -32,7 +32,7 @@ dump_unused = []
 rust_decimal = { version = "1.36", optional = true }
 rust_decimal_macros = { version = "1.36", optional = true }
 color-rs2 = { version = "0.9.0" }
-string_cache = "0.9"
+string_cache = "0.10"
 nom = "7.1"
 nom_locate = "4.2"
 icu_locale_core = "2.0"
